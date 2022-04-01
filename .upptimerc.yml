@@ -3,12 +3,12 @@ owner: prietosanti # Your GitHub organization or username, where this repository
 repo: upptime-test # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
+  - name: Smartforce
+    url: https://smartforcetech.com
+  - name: CitizenContact
+    url: https://citizencontact.app
+  - name: CitizenContact API
+    url: https://api.citizencontact.app
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
 
@@ -18,7 +18,7 @@ status-website:
   # cname: demo.upptime.js.org
   baseUrl: /upptime-test
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  name: Test Status
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
