@@ -7,6 +7,10 @@ sites:
     url: https://smartforcetech.com
   - name: CitizenContact
     url: https://citizencontact.app
+  - name: CitizenContact QA
+    url: https://qa.citizencontact.app
+  - name: CitizenContact Demo
+    url: https://demo.citizencontact.app
   - name: CitizenContact API
     url: https://api.citizencontact.app
 
