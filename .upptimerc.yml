@@ -5,17 +5,18 @@ repo: upptime-test # The name of this repository
 sites:
   - name: Smartforce
     url: https://smartforcetech.com
+  - name: Viewer
+    url: https://viewer-qa.smartforce.app/
+  - name: Viewer QA
+    url: https://viewer-qa.smartforce.app/
+  - name: Viewer Dev
+    url: https://viewer-dev.smartforce.app/
   - name: CitizenContact
     url: https://citizencontact.app
   - name: CitizenContact QA
     url: https://qa.citizencontact.app
   - name: CitizenContact Demo
     url: https://demo.citizencontact.app
-  - name: CitizenContact API
-    url: https://api.citizencontact.app
-
-assignees:
-  - prietosanti
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
